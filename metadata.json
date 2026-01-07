@@ -1,0 +1,5 @@
+{
+  "name": "PolyClassify LLM",
+  "description": "A workbench for few-shot prompt engineering to perform multi-language text classification using Gemini.",
+  "requestFramePermissions": []
+}
